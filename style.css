@@ -1,0 +1,14 @@
+#selected_all_tags.tags-lib_selected_text{
+	margin-left: 20px;
+    font-size: 13px;
+    cursor: pointer;
+    text-decoration: underline;
+    cursor: pointer;
+    line-height: 1;
+    color: #1375ab;
+    font-family: 'PT Sans';
+    text-transform: none;
+    font-weight: 400;
+    margin-top: 3px;
+
+}
